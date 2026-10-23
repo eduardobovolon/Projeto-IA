@@ -1,0 +1,6 @@
+{
+  "name": "Plano 30 Dias: Análise de Dados & BI",
+  "description": "Plano interativo de estudos de 30 dias para transição de suporte técnico para Análise de Dados e BI com Excel, SQL, Power BI e projeto prático de portfólio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
